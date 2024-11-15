@@ -25,6 +25,5 @@ class DameHora implements ActionListener {
         Date hora = new Date();
         System.out.println("esta es la hora "+hora);
         Toolkit.getDefaultToolkit().beep();
-        // finalizo programa
     }
 }

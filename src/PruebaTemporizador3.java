@@ -23,7 +23,6 @@ public class PruebaTemporizador3 {
         new Timer(intervalo,oyente).start();
         JOptionPane.showMessageDialog(null,"pulsa  aceptar para salir");
         System.exit(0);
-        // final programa
 
     }
 }
