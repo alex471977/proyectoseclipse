@@ -13,6 +13,7 @@ public class PruebaTemporizador {
         temporizador.start();
         JOptionPane.showMessageDialog(null,"aceptar para salir");
         System.exit(0);
+        //fin
     }
 }
 
